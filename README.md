@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar.</h1>
 <h3 align="center">A passionate Machine learning and Data Analyst from India. I am expertised in Python, MySQL, C++, HTML, CSS and Javascript.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant123450" alt="sushant123450" /></a> </p>
-
 - 🌱 I’m currently learning **MERN stack Web Development.**
 
 - 🤝 I’m looking for help with [Eye gaze Detection](https://github.com/Sushant123450/Eye-Gaze)
