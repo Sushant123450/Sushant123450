@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar.</h1>
-<h3 align="center">A passionate Machine learning and Data Analyst from India. I am expertised in Python, MySQL, C++, HTML, CSS and Javascript.</h3>
+<h3 align="center">A passionate Machine learning and Data Analyst from India. I am expertised in Python, MySQL, C++, MERN, Dartand Flutter </h3>
 
 - 🌱 I’m currently learning **MERN stack Web Development.**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sushant123450](https://github.com/Sushant123450)
 
-- 💬 Ask me about **Python,C++**
+- 💬 Ask me about **Python, C++, MERN, Flutter**
 
 - 📫 How to reach me **Suhant12340.sk@gmail.com**
 
