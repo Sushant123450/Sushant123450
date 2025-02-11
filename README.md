@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar.</h1>
-<h3 align="center">A passionate Machine learning and Data Analyst from India. I am expertised in Python, MySQL, C++, MERN, Dartand Flutter </h3>
-
-- 🌱 I’m currently learning **MERN stack Web Development.**
-
-- 🤝 I’m looking for help with [Eye gaze Detection](https://github.com/Sushant123450/Eye-Gaze)
+<h3 align="center">A passionate Machine learning and Data Analyst from India. I am expertised in Python, MySQL, C++, MERN, Dart and Flutter </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sushant123450](https://github.com/Sushant123450)
 
