@@ -9,7 +9,7 @@ A versatile software developer with a strong foundation in computer science and 
 
 <h3 align="left">My Expertise and Skills:</h3>
 <p align="left">
-I am proficient in *full-stack development* with the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and have experience with cross-platform mobile development using **Dart and Flutter**. My backend skills include **Python, Django, and FastAPI**, complemented by a strong understanding of **Data Structures and Algorithms** and **Object-Oriented Programming (OOPS)**.
+I am proficient in <b>full-stack development</b> with the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and have experience with cross-platform mobile development using **Dart and Flutter**. My backend skills include **Python, Django, and FastAPI**, complemented by a strong understanding of **Data Structures and Algorithms** and **Object-Oriented Programming (OOPS)**.
 
 I have practical experience with **AWS Serverless services (Lambda, SQS, S3, API Gateway, DynamoDB, and Cognito)** for building scalable cloud solutions. My data skills cover a wide range of databases, including **MySQL, Redshift, and Redis**, and I am skilled in data analysis using **PowerBI** and **Tableau**.
 </p>
