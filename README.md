@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar.</h1>
-<h3 align="center">Associate Software Developer at JK Tech | Full Stack & Cloud Enthusiast.</h3>
+<h3 align="center"> Full Stack & Cloud Enthusiast.</h3>
 
 <p align="center">
 A versatile software developer with a strong foundation in computer science and a passion for building robust, scalable applications. My expertise spans across full-stack, cloud, and data technologies.
